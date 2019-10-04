@@ -1,5 +1,5 @@
 # Mod-Test
-just testing out a mod.
-for now, it's just ralsei hwrot with luigi over lancer, which is why it's just a mod test.
+Just testing out a mod.
+For now, it's just ralsei hwrot with luigi over lancer, which is why it's just a mod test.
 Updates:
-Now with mario over Kround.
+Now with mario over Kround! He's a bit big though. lets just say he grabbed the super mushroom item from super smash bros! (Or I guess he got the super mushroom from ssf2 in this case since the sprites are from ssf2 beta! Credit bleongs to mcleodgaming for the sprites by the way since they own ssf2 beta!) I also haven't added his voice yet but when I do I'll make his voice a bit deeper just like his voice when he gets the mushroom (or like any smash characters voice when they get the mushroom) in super smash bros because they don't do that in ssf2 beta and it wouldnt be that hard, you just have to add code to the mushroom and poison mushroom that makes the charcters voice deeper when becoming big and makes their voice higher when shrinking. (unless you have to add code to detect what character got the mushroom or poison mushroom in order for the game to know which characters voice needs to be deeper or higher and you need to add code to detect when what character goes back to normal size to give them back their normal voice, then it sounds really hard and since I don't know much about coding a game it's probably even harder then it sounds which is already pretty hard. If that's the case then I understand now why they didn't put it in yet or if they don't put in at all!)
