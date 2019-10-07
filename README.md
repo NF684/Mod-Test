@@ -7,3 +7,5 @@ Update:
 I have added the voice but I'm trying to get it to play. Will update this when it plays!
 Update:
 Got the voice to play!!!
+The mod won't let me make his voice loud enough to hear him without it sounding earrape so I'm just gonna leave it like that!
+I guess that means I have to say this!!! EARRAPE WARNING!!!
